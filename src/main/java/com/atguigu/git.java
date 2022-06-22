@@ -6,6 +6,7 @@ public class git {
         System.out.println("bb");
         System.out.println("cc");
         System.out.println("dd");
+        System.out.println("hot-fix");
         System.out.println("master test");
     }
 }
