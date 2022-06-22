@@ -9,6 +9,6 @@ public class git {
         System.out.println("hot-fix");
         System.out.println("master test");
         System.out.println("push test");
-        gigi
+        System.out.println("adada");
     }
 }
